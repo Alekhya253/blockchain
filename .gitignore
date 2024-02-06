@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Virtual environment
+venv/
+.env
+
+# IDE files
+.vscode/
+*.pyc
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Dependency directories
+.env/
+pip-wheel-metadata/
