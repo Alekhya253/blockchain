@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title{
+    font-family: cursive;
+    font-weight: bold;
+}
+nav a{
+    font-weight: bolder;
+}
+.login-option {
+    display: inline-block;
+    margin-right: 40px;
+
+}   
+.login-options{ 
+    margin-top: 30vh;
+    text-align: center;
+}
+p{
+    text-decoration: none;
+}
